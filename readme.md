@@ -1,5 +1,7 @@
 # Si4063 2m transmitter for Raspi
 
+![Si4063_hat](image/si4063hat_2.png "si4063_hat")
+
 Transmit a modulated wave in the 144Mhz band using RaspberryPi and an expansion board (si4063 2m radio hat, homemade, see hat directory).
 
 ・Frequency can be set from 144 to 146MHz

@@ -1,5 +1,7 @@
 # Si4063 2m transmitter for Raspi
 
+![Si4063_hat](image/si4063hat_2.png "si4063_hat")
+
 RaspberryPiと拡張基板（si4063 2m radio hat、自作、hatディレクトリ参照）で144Mhz帯で変調波を送信します．
 
 ・周波数は144～146MHzで設定可能です
