@@ -10,7 +10,7 @@ Transmit a modulated wave in the 144Mhz band using RaspberryPi and an expansion 
 
 ・CW (Continuous wave), OOK, FSK modulation is possible
 
-・If you want to attach an antenna and actually emit radio waves, you will need an amateur radio license.
+・If you want to attach an antenna and actually emit radio waves, you will need an amateur radio license/qualification.
 
 . When operating, be sure to terminate the SMA terminal (J2: RF output terminal). Otherwise, it may break.
 
